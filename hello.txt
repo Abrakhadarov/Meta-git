@@ -1,0 +1,8 @@
+oioioi to testando
+dir
+test
+hello
+quit
+end
+copy con
+hello.txt
